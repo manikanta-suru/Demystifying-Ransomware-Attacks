@@ -40,4 +40,4 @@ In the realm of cybersecurity, Ransomware attacks exploit Remote Desktop Protoco
 
 In the battle against ransomware, understanding the pivotal role of RDP is paramount. Implement these measures to fortify your defenses and stay vigilant. Stay secure! 🌐🔒
 
-If you found this insightful, join me at [Manikanta Suru](link-to-profile) for more cybersecurity insights in the future! 🚀
+If you found this insightful, join me at [Manikanta Suru](https://github.com/manikanta-suru) for more cybersecurity insights in the future! 🚀
